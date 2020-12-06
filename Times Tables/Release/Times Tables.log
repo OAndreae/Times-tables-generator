@@ -1,0 +1,13 @@
+﻿  main.cpp
+main.cpp(78): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  main.cpp(172): note: see reference to function template instantiation 'void print_table<Question>(const std::vector<Question,std::allocator<_Ty>> &,int,char,std::ostream &)' being compiled
+          with
+          [
+              _Ty=Question
+          ]
+  Generating code
+  3 of 244 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Times Tables.vcxproj -> D:\Visual Studio\Times Tables\Release\Times Tables.exe
